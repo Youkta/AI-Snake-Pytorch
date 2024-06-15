@@ -46,8 +46,8 @@ Welcome to the Snake AI project! This repository contains an implementation of a
    ```bash
    conda activate pygame_env
    ```
-
-## Running the AI
+   
+4. **Running the AI** 
 
 To start the AI agent and let it play the Snake game, enter the correct directory containing the files and run:
 
@@ -61,8 +61,11 @@ python agent.py
 - `game.py`: Implements the Snake game logic, including the game board, snake movement, and collision detection.
 - `model.py`: Defines the neural network architecture and the training process using PyTorch.
 - `helper.py`: Contains utility functions for plotting the training progress.
+- `arial.ttf`: Arial font for rendering on display
+- `snake_game_human.py`: The keyboard controlled version of the Snake Game
 - `.gitignore`: Specifies files and directories to be ignored by git.
 - `LICENSE`: License for the project.
+- `README.md`: Readme file with brief summary and instructions regarding installation and running code
 
 ## Training Graph
 
