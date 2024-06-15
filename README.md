@@ -4,10 +4,10 @@ Welcome to the Snake AI project! This repository contains an implementation of a
 
 ## Developers
 
-- [@Youkta](https://github.com/Youkta)
-- [@Parnika-P](https://github.com/Parnika-P)
-- [@sharanyaM30](https://github.com/sharanyaM30)
-- [@mathangiVS](https://github.com/mathangiVS)
+- [Youkta](https://github.com/Youkta)
+- [Parnika-P](https://github.com/Parnika-P)
+- [sharanyaM30](https://github.com/sharanyaM30)
+- [mathangiVS](https://github.com/mathangiVS)
 
 ## Features
 
@@ -19,12 +19,12 @@ Welcome to the Snake AI project! This repository contains an implementation of a
 
 ## Prerequisites
 
-- Python: Programming Language
-- Anaconda: Virtual Environment
-- PyTorch: Training Neural Network through Reinforcement Learning
-- NumPy: Numerical Operations
-- Pygame: Game Development 
-- Matplotlib: Plotting Training Graphs
+- **Python**: Programming Language
+- **Anaconda**: Virtual Environment
+- **PyTorch**: Training Neural Network through Reinforcement Learning
+- **NumPy**: Numerical Operations
+- **Pygame**: Game Development 
+- **Matplotlib**: Plotting Training Graphs
 
 ## Installation
 
