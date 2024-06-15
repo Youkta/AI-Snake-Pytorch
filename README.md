@@ -31,7 +31,7 @@ Welcome to the Snake AI project! This repository contains an implementation of a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/snake-ai.git
+   git clone https://github.com/Youkta/AI-Snake-Pytorch.git
    cd snake-ai
    ```
 
