@@ -49,11 +49,11 @@ Welcome to the Snake AI project! This repository contains an implementation of a
    
 4. **Running the AI** 
 
-To start the AI agent and let it play the Snake game, enter the correct directory containing the files and run:
-
-```bash
-python agent.py
-```
+   To start the AI agent and let it play the Snake game, enter the correct directory containing the files and run:
+   
+   ```bash
+   python agent.py
+   ```
 
 ## Repository Structure
 
