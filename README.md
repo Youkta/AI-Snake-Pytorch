@@ -47,12 +47,6 @@ Welcome to the Snake AI project! This repository contains an implementation of a
    conda activate pygame_env
    ```
 
-4. **Install the required packages:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Running the AI
 
 To start the AI agent and let it play the Snake game, enter the correct directory containing the files and run:
@@ -69,6 +63,10 @@ python agent.py
 - `helper.py`: Contains utility functions for plotting the training progress.
 - `.gitignore`: Specifies files and directories to be ignored by git.
 - `LICENSE`: License for the project.
+
+## Training Graph
+
+   ![Figure_1](https://github.com/Youkta/AI-Snake-Pytorch/assets/152993509/a609d430-ebd1-4493-8308-c4bbbb1faed0)
 
 ## Possible Future Improvements
 
